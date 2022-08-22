@@ -1,13 +1,11 @@
 # hacking simulator
 
-```bash
-pip install rich
-```
+#### [XiniX Space](https://xinix.space)
 
-```python
-from rich.console import console
+## features
 
-c = Console()
+- `compatible`: windows and linux version
 
-c.print("test", style="bold red")
-```
+- `layout`: advanced looks
+
+- `free`: free for ever and everyone
