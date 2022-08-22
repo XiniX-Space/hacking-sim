@@ -1,6 +1,8 @@
 # hacking simulator
 
-#### `pip install rich`
+```bash
+pip install rich
+```
 
 ```python
 from rich.console import console
